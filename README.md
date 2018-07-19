@@ -1,1 +1,1 @@
-all material copy from https://www.katacoda.com/courses/kubernetes
+All materials copy from https://www.katacoda.com/courses/kubernetes
